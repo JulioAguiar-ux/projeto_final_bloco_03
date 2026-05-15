@@ -7,4 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+
+  base: '/projeto_final_bloco_03/',
 })
